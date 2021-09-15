@@ -1,0 +1,5 @@
+Title,Function,Defect Count,Defect Severity,Phase,Setting Time,ProgressTime,Test Priority
+BMC GUI IKVM,BMC,1,4,BBFV,10,20,
+RAS memory error injection,RAS,0,0,SDV,10,20,
+Uefi SMBIOS Check,BIOS,0,0,SIT,10,60,
+AVL Stress ,AVL,1,1,SIT,720,720,

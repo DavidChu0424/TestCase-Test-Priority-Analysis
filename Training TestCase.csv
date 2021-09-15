@@ -1,0 +1,19 @@
+Title,Function,Defect Count,Defect Severity,Phase,Setting Time,ProgressTime,Test Priority
+BMC GUI IKVM,BMC,0,0,SDV,5,20,5
+BMC GUI FWflash,BMC,1,2,BBFV,20,20,1
+BMC GUI VPDcheck,BMC,3,4,SDV,5,5,4
+BMC IPMI SOL,BMC,0,0,SDV,30,5,5
+BMC Redfish BIOS Setting Change,BMC,1,2,SDV,50,30,1
+BMC SNMP Walk,BMC,2,3,SDV,15,20,2
+BMC GUI USERLDAP,BMC,3,5,SDV,20,30,3
+BMC SDR check,BMC,2,3,SDV,20,20,2
+RAS memory error injection,RAS,1,1,BBFV,10,20,1
+RAS CPU error injection,RAS,1,1,BBFV,20,30,1
+RAS ME error injection,RAS,1,1,BBFV,10,10,1
+Uefi SMBIOS Check,BIOS,2,1,SIT,10,60,1
+Uefi Admin Password ,BIOS,0,0,SIT,20,30,5
+Uefi System Password ,BIOS,0,0,SIT,10,10,5
+Uefi Security Boot ,BIOS,2,1,SDV,20,30,2
+Uefi TPM ,BIOS,1,2,SDV,20,20,1
+Uefi Boot Option,BIOS,0,0,SDV,20,20,5
+Uefi SMBIOS Check,BIOS,2,1,BBFV,10,60,5
